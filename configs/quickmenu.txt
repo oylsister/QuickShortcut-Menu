@@ -1,0 +1,37 @@
+"quickmenu"
+{
+	"title"
+	{
+		"text"	"[!sc] Quick Shortcuts Menu"
+	}
+	"0"
+	{
+		"display"	"!p90 | Buy P90 Command"
+		"command"	"sm_p90"
+	}
+	"1"
+	{
+		"display"	"!bizon | Buy PP-Bizon Command"
+		"command"	"sm_bizon"
+	}
+	"2"
+	{
+		"display"	"!kevlar | Buy Armor Kevlar Command"
+		"command"	"sm_kevlar"
+	}
+	"3"
+	{
+		"display"	"!he | Buy HeGrenade Command"
+		"command"	"sm_he"
+	}
+	"4"
+	{
+		"display"	"!mol | Buy Molotov Command"
+		"command"	"sm_mol"
+	}
+	"5"
+	{
+		"display"	"!ex | Exchange Cash to Credit Command"
+		"command"	"sm_exchange"
+	}
+}
