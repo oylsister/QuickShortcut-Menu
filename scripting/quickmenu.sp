@@ -189,7 +189,7 @@ public Action OnPlayerRunCmd(int client, int &buttons, int &impulse, float vel[3
 			}
 			else
 			{
-				if(!ZR_IsClientZombie(client))
+				if(!IsPlayerAlive(client) || !ZR_IsClientZombie(client))
 					ShowQuickMenu(client);
 				
 				else
